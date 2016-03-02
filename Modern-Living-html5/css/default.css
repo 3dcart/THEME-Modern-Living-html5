@@ -818,7 +818,7 @@ nav#catNavMenu {
 	-o-transition: all 0.3s;
 	width:100%;
 	margin:0 auto;
-	position:fixed;
+	position:static;
 	z-index:999;
 }
 .top-menu ul {
@@ -1920,7 +1920,9 @@ footer .col3 {
 /* General styles for Slide Out Menus */
 .cbp-spmenu {
 	background: #000;
-	position: fixed;
+	position: absolute;
+	height:100%;
+	overflow:scroll;
 }
 .cbp-spmenu a,
 .cbp-spmenu a:visited {
@@ -2045,6 +2047,7 @@ body {
 .wrapper {
     width: 100%;
 	padding: 0 20px;
+	padding-top:0px !important;
 }
 #leftBar {
     display: none !important;
