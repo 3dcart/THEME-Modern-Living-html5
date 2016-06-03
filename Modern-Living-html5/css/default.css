@@ -1737,6 +1737,7 @@ footer .col3 { margin: 0 0 0 20px;}
 .top-menu ul {
     float: none;
 	line-height:0;
+	overflow:scroll !important;
 }
 .top-menu li {
     display: block;
