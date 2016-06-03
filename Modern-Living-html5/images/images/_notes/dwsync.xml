@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
 <file name="classic-time-logo.jpg" server="3dcart-oscar-com.3dcartstores.com:990//web/assets/templates/Modern-Living-html5/" local="130626335199380361" remote="130626337800000000" Dst="1" />
 <file name="classic-time-slide2.jpg" server="3dcart-oscar-com.3dcartstores.com:990//web/assets/templates/Modern-Living-html5/" local="130626335213679360" remote="130626338400000000" Dst="1" />
 <file name="classic-time-slide1.png" server="3dcart-oscar-com.3dcartstores.com:990//web/assets/templates/Modern-Living-html5/" local="130626335208379731" remote="130626338400000000" Dst="1" />
+=======
+<file name="classic-time-logo.jpg" server="jira-test-com.3dcartstores.com:990//web/" local="131013420026760490" remote="131013420600000000" Dst="1" />
+<file name="classic-time-slide2.jpg" server="jira-test-com.3dcartstores.com:990//web/" local="131013420027080490" remote="131013420600000000" Dst="1" />
+<file name="classic-time-slide1.png" server="jira-test-com.3dcartstores.com:990//web/" local="131013420026980490" remote="131013420600000000" Dst="1" />
+>>>>>>> dev
 </dwsync>

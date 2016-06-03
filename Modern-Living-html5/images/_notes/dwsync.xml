@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
+<<<<<<< HEAD
 <file name="go-arrow.png" server="3dcart-oscar-com.3dcartstores.com:990//web/assets/templates/Modern-Living-html5/" local="130626335198780403" remote="130626337800000000" Dst="1" />
 <file name="lens.png" server="3dcart-oscar-com.3dcartstores.com:990//web/assets/templates/Modern-Living-html5/" local="130626335208179745" remote="130626337800000000" Dst="1" />
 <file name="dark-arrow.png" server="3dcart-oscar-com.3dcartstores.com:990//web/assets/templates/Modern-Living-html5/" local="130626335188081152" remote="130626337800000000" Dst="1" />
@@ -13,4 +14,19 @@
 <file name="paypal.png" server="3dcart-oscar-com.3dcartstores.com:990//web/assets/templates/Modern-Living-html5/" local="130626335221778793" remote="130626337800000000" Dst="1" />
 <file name="spacer.gif" server="3dcart-oscar-com.3dcartstores.com:990//web/assets/templates/Modern-Living-html5/" local="130626335221778793" remote="130626337800000000" Dst="1" />
 <file name="visa.png" server="3dcart-oscar-com.3dcartstores.com:990//web/assets/templates/Modern-Living-html5/" local="130626335221778793" remote="130626338400000000" Dst="1" />
+=======
+<file name="dark-arrow.png" server="jira-test-com.3dcartstores.com:990//web/" local="131013420026530490" remote="131013420600000000" Dst="1" />
+<file name="discover.png" server="jira-test-com.3dcartstores.com:990//web/" local="131013420026560490" remote="131013420600000000" Dst="1" />
+<file name="dots.gif" server="jira-test-com.3dcartstores.com:990//web/" local="131013420026620490" remote="131013420600000000" Dst="1" />
+<file name="div.png" server="jira-test-com.3dcartstores.com:990//web/" local="131013420026600490" remote="131013420600000000" Dst="1" />
+<file name="div.gif" server="jira-test-com.3dcartstores.com:990//web/" local="131013420026580490" remote="131013420600000000" Dst="1" />
+<file name="go-arrow.png" server="jira-test-com.3dcartstores.com:990//web/" local="131013420026710490" remote="131013420600000000" Dst="1" />
+<file name="front-sample-picture.jpg" server="jira-test-com.3dcartstores.com:990//web/" local="131013420026660490" remote="131013420600000000" Dst="1" />
+<file name="lens.png" server="jira-test-com.3dcartstores.com:990//web/" local="131013420027110490" remote="131013420600000000" Dst="1" />
+<file name="logo.png" server="jira-test-com.3dcartstores.com:990//web/" local="131013420027130490" remote="131013420600000000" Dst="1" />
+<file name="master-card.png" server="jira-test-com.3dcartstores.com:990//web/" local="131013420027160490" remote="131013420600000000" Dst="1" />
+<file name="paypal.png" server="jira-test-com.3dcartstores.com:990//web/" local="131013420027180490" remote="131013420600000000" Dst="1" />
+<file name="spacer.gif" server="jira-test-com.3dcartstores.com:990//web/" local="131013420027210490" remote="131013420600000000" Dst="1" />
+<file name="visa.png" server="jira-test-com.3dcartstores.com:990//web/" local="131013420027230490" remote="131013420600000000" Dst="1" />
+>>>>>>> dev
 </dwsync>
