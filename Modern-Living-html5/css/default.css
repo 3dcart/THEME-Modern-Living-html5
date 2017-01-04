@@ -1678,13 +1678,6 @@ footer .col3,
     height: auto !important;
 }
 
-#logo-nav {
-    display: block !important;
-    float: left;
-    height: 75% !important;
-    margin: 7px 0 0 !important;
-    width: 40%;
-}
 
 }
 @media only screen and (max-width: 991px) {
@@ -1726,6 +1719,7 @@ body {
 #showSlideMenu {
     height: 1000%;
 }
+
 footer .col3 { margin: 0 0 0 20px;}
 .credit-cards { display:table; margin:10px auto; width:auto;}
 .credit-cards .col-xs-4 {  float: left; margin: 0 10px 0 0; width: 20.333%;}
@@ -2021,6 +2015,13 @@ footer .col3 {
 footer h3 {
     margin: 0 0 10px;
 }
+#logo-nav {
+    display: inline-block !important;
+    height: 100%;
+	line-height:38px;
+    margin: auto;
+    width: 45%;
+}
 
 }
 @media only screen and (max-width: 600px) {
@@ -2058,9 +2059,11 @@ body {
 }
 .slicknav_menu { display:block;}
 
+
 #logo-nav img {
-    height: 100%;
-	width:auto;
+    height: auto;
+	max-width: 100%;
+	vertical-align:middle;
 }
 .store-name {
     font-size: 14px;

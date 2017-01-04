@@ -1,3 +1,7 @@
+jQuery(function () {
+	resizeMainContent();
+});
+
 function resizeMainContent() {
     /* Site content section resizing depending on Left Bar or Right Bar is enabled. */
     var sw = jQuery('#mainContainer .wrapper').width();
@@ -57,6 +61,13 @@ function resizeMainContent() {
     jQuery('#mobileCatMenu').on('click', function () {
         jQuery('#cbp-tm-menu').slideToggle();
     });
+
+	if (jQuery(window).width() <= 1023) {
+		jQuery('.moving_logo').appendTo('#logo-nav');
+	}
+	if (jQuery(window).width() > 1023) {
+		jQuery('.moving_logo').appendTo('#logo');
+	}
 }
 
 // edit: hide submenu if no subs present
