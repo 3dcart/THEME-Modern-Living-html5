@@ -57,6 +57,13 @@ function resizeMainContent() {
     jQuery('#mobileCatMenu').on('click', function () {
         jQuery('#cbp-tm-menu').slideToggle();
     });
+
+	if (jQuery(window).width() <= 767) {
+		jQuery('a.moving_logo').appendTo('#logo-nav');
+	}
+	if (jQuery(window).width() > 767) {
+		jQuery('a.moving_logo').appendTo('#logo');
+	}
 }
 
 // edit: hide submenu if no subs present
